@@ -1,10 +1,8 @@
 ---
 env:
-  IBM_JVM_LICENSE: L-JWOD-9SYNCP 
-    IBM_LIBERTY_LICENSE: L-MCAO-9SYMVC 
-    JBP_CONFIG_IBMJDK: 'version: 1.8.+'
+  IBM_LIBERTY_LICENSE: L-SWIS-A99U5C
+  IBM_JVM_LICENSE: L-PMAA-A3Z8P2
+  JBP_CONFIG_IBMJDK: 'version: 1.8.+'
   JBP_CONFIG_LIBERTY: "app_archive: {features: [jsf-2.0, jsp-2.2, servlet-3.0, ejbLite-3.1, cdi-1.0, jpa-2.0, jdbc-4.0, jndi-1.0, managedBeans-1.0, jaxrs-1.1]}"
-
-
 
 
